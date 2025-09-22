@@ -30,4 +30,36 @@ public class two_sum{
         }
         return new int[]{};
     }
+
+/*
+    static int[] twoSum(int[] nums,int target)
+    {
+    	for(int i =0;i<nums.length;i++) {
+    		for(int j=i+1;j<nums.length;j++) {
+    			if(nums[i]+nums[j]==target) {
+    				return new int[] {i,j};
+    			}
+    		}
+    	}
+    	return nums;
+    }
+    
+    static int two sum( int [] nums,int target)
+    {
+     int high =nums.length,low=0;
+     while(low<high)
+     {
+     int csum= nums[low]+nums[high];
+        if( csum==target)
+        {
+        	return {low,high}
+     	}
+     	else if(csum<target){
+     	left++
+     	else
+     	right++;
+    
+    }
+   */ 
+    
 }
