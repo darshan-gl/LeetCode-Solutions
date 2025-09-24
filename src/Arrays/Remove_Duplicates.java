@@ -1,5 +1,5 @@
 package Arrays;
-import java.util.Arrays;
+import java.util.Arrays; 
 
 //LeetCode #26 - Remove Duplicates from Sorted Array
 //Remove duplicates in-place from a sorted array and return the new length
