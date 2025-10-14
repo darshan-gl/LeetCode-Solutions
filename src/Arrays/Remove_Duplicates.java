@@ -1,5 +1,5 @@
 package Arrays;
-import java.util.Arrays;
+import java.util.Arrays; 
 
 public class Remove_duplicates {
 
