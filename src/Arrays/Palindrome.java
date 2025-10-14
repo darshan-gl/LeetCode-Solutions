@@ -1,5 +1,6 @@
+
 package Arrays;
-public class Firstandlastposition {
+public class Palindrome {
     public static void main(String[] args) {
         Palindrome obj = new Palindrome();
         int[] nums = {5,7,7,8,8,10};
