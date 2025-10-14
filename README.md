@@ -5,8 +5,8 @@
 
 - **Java** – Solutions for Array and String problems
 - **SQL** – Solutions for database-related problems
-- **Collections Framework** – Used in Java solutions where applicable
-- **JDBC** – For database connectivity exercises (if applicable)
+- **Collections Framework** – Used in Java solutions 
+- 2D arrays problems.
 
 ---
 
@@ -14,4 +14,4 @@
 
 1. Clone this repository:  
    ```bash
-   git clone 
+   git clone https://github.com/darshan-gl/LeetCode-Solutions.git
