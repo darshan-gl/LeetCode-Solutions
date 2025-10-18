@@ -15,7 +15,9 @@ public class Stockbuysell {
         for (int i=1;i<prices.length; i++) {
             if (prices[i]<buy_price) {
                 buy_price=prices[i]; 
-            } else {
+            } 
+            else
+            { 
                 int current_profit=prices[i]-buy_price;
                 profit=Math.max(profit, current_profit);
             }
