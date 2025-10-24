@@ -10,7 +10,7 @@ class ListNode {
         next = null;
     }
 }
-
+  
 public class LinkedListlifecycle {
     public boolean hasCycle(ListNode head) {
 
