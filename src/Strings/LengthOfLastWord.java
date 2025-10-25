@@ -7,7 +7,7 @@ public class LengthOfLastWord {
      String s = "Hello World";
      System.out.println(lengthOfLastWord(s));
  }
-
+ 
  public static int lengthOfLastWord(String s) 
  {
      int count=0;
